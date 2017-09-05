@@ -5,6 +5,8 @@ public class demo1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("cHANGE");
+		System.out.println("fINALLY I done");
+		
 			  java.lang.String st1 = "This World is Very Nice";
 			  java.lang.String st2 = " And Beautiful.";
 			  
